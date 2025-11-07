@@ -1,0 +1,6 @@
+opencv-python
+openai-whisper
+python-pptx
+streamlit
+scenedetect[opencv]
+scikit-image

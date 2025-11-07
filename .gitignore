@@ -1,0 +1,6 @@
+__pycache__/
+generated/
+uploads/
+my_venv.ps1
+*.pptx
+*.mp4
